@@ -170,7 +170,7 @@ showAdAttribution: true,
 title: botname,
 body: caption,
 mediaType: "VIDEO",
-mediaUrl: `https://githb.com/Ajmal-Achu/Wizard-MD`,
+mediaUrl: `https://githb.com/hemodz0786/Wizard-MD`,
 description: ownername,
 previewType: "PHOTO",
 thumbnail: thumbwiz,
@@ -2207,8 +2207,9 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
   showAdAttribution: true,
   thumbnail: thumbwiz,
   mediaType:1,
-  mediaUrl: 'github.com/Ajmal-Achu',
-  sourceUrl: "github.com/Ajmal-Achu"
+  mediaUrl: 'github.com/hemodz0786',
+  sourceUrl: "github.com/hemodz0786
+"
   }}
   }
   Wizard.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -2234,8 +2235,8 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
   showAdAttribution: true,
   thumbnail: thumbwiz,
   mediaType:1,
-  mediaUrl: 'github.com/Ajmal-Achu',
-  sourceUrl: "github.com/Ajmal-Achu"
+  mediaUrl: 'github.com/hemodz0786',
+  sourceUrl: "github.com/hemodz0786"
   }}
   }
   Wizard.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -4139,7 +4140,7 @@ url: `${drips2.videos[0].url}`
 }, {
 urlButton: {
 displayText: `GITHUB`, 
-url: `https://github.com/Ajmal-Achu/Wizard-MD`
+url: `https://github.com/hemodz0786/Wizard-MD`
 }
 }, {
 quickReplyButton: {
@@ -5007,7 +5008,7 @@ await sleep(1500)
 let btn = [{
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/hemodz0786/Wizard-MD'
 }
 }]
 let txt = `「 *${global.botname} BROADCAST* 」\n\n${text}`
@@ -5059,7 +5060,7 @@ await sleep(1500)
 let butoon = [{
 urlButton: {
 displayText: `GITHUB`,
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/hemodz0786/Wizard-MD'
 }
 },
 {
@@ -6614,7 +6615,7 @@ url: youtube
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/hemodz0786/Wizard-MD'
 }
 }, {
 quickReplyButton: {
@@ -7309,7 +7310,7 @@ anu = `
     }, {
         urlButton: {
             displayText: 'GITHUB',
-            url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+            url: 'https://github.com/hemodz0786/Wizard-MD'
         }
     }, {
         quickReplyButton: {
@@ -7344,7 +7345,7 @@ anu = `
     }, {
     urlButton: {
     displayText: 'GITHUB',
-    url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+    url: 'https://github.com/hemodz0786/Wizard-MD'
     }
     }, {
     quickReplyButton: {
@@ -7382,7 +7383,7 @@ anu = `
     }, {
     urlButton: {
     displayText: 'GITHUB',
-    url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+    url: 'https://github.com/hemodz0786/Wizard-MD'
     }
     }, {
     quickReplyButton: {
@@ -7420,7 +7421,7 @@ anu = `
     }, {
     urlButton: {
     displayText: 'GITHUB',
-    url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+    url: 'https://github.com/hemodz0786/Wizard-MD'
     }
     }, {
     quickReplyButton: {
@@ -7473,7 +7474,7 @@ anu = `
         }
         
     var buffer = await getBuffer(ppuser)
-    const buttonsDefault = [{ urlButton: { displayText: `SUBSCRIBE`, url : `https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA` } }, { urlButton: { displayText: `GITHUB`, url : `https://github.com/Ajmal-Achu/Wizard-MD` } },
+    const buttonsDefault = [{ urlButton: { displayText: `SUBSCRIBE`, url : `https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA` } }, { urlButton: { displayText: `GITHUB`, url : `https://github.com/hemodz0786/Wizard-MD` } },
     {					
       quickReplyButton: {
       displayText: 'SPEED',
@@ -7602,7 +7603,7 @@ Wizard.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key }}
 buffer = await getBuffer(picak+'OWNER MENU')
 ram3 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu = `
-*Oi Bro*
+*Hey .sender NICE TO MEET YOU!*
 *📁Directory:* ${os.homedir()}
 *👑Creator:*${global.ownername}
 *💳Version:* 1.0
@@ -7656,7 +7657,7 @@ hydratedButtons: [{
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/hemodz0786/Wizard-MD'
 }
 }
 ]
@@ -7671,7 +7672,7 @@ Wizard.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key }}
 buffer = await getBuffer(picak+'DATABASE MENU')
 ram4 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu = `
-*Oi Bro*
+*HEY.sender NICE TO SEE YOU! *
 *📁Directory:* ${os.homedir()}
 *👑Creator:*${global.ownername}
 *💳Version:* 1.0
@@ -7707,7 +7708,7 @@ hydratedButtons: [{
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/hemodz0786/Wizard-MD'
 }
 }
 ]
@@ -7776,7 +7777,7 @@ case 'photooxymenu': {
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/hemodz0786/Wizard-MD'
   }
   }
   ]
@@ -7863,7 +7864,7 @@ hydratedButtons: [{
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/hemodz0786/Wizard-MD'
 }
 }
 ]
@@ -7964,7 +7965,7 @@ hydratedButtons: [{
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/hemodz0786/Wizard-MD'
 }
 }
 ]
@@ -8033,7 +8034,7 @@ hydratedButtons: [{
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/hemodz0786/Wizard-MD'
 }
 }
 ]
@@ -8117,7 +8118,7 @@ hydratedButtons: [{
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/hemodz0786/Wizard-MD'
 }
 }
 ]
@@ -8204,7 +8205,7 @@ case 'animemenu':{
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/hemodz0786/Wizard-MD'
   }
   }
   ]
@@ -8269,7 +8270,7 @@ case 'convertmenu': {
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/hemodz0786/Wizard-MD'
   }
   }
   ]
@@ -8329,7 +8330,7 @@ case 'toolmenu': {
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/hemodz0786/Wizard-MD'
   }
   }
   ]
@@ -8401,7 +8402,7 @@ case 'searchmenu':{
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/hemodz0786/Wizard-MD'
   }
   }
   ]
@@ -8445,7 +8446,7 @@ hydratedButtons: [{
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/hemodz0786/Wizard-MD'
 }
 }
 ]
