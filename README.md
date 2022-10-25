@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://telegra.ph/file/e0bc28185977299bf5d2c.jpg" alt="PROJECT 01" height= "300" width="300"/>
+<img src="HM-BOT-MD.jpeg" alt="PROJECT 01" height= "300" width="300"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="WIZARD MULTI DEVICE" src="https://img.shields.io/badge/WIZARD MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MASTER MULTI DEVICE" src="https://img.shields.io/badge/MASTER MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ajmal-Achu"><img title="Author" src="https://img.shields.io/badge/Author-AJMAL-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/hemodz0786"><img title="Author" src="https://img.shields.io/badge/Author-HASHIM-red.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/Ajmal-Achu/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajmal-Achu?color=blue&style=flat-square"></a>
 <a href="https://github.com/Ajmal-Achu"><img title="Stars" src="https://img.shields.io/github/stars/Ajmal-Achu/Wizard-MD?color=blue&style=flat-square"></a>
@@ -62,9 +62,9 @@ And Many More Features Are Available 😊
 
 <!---->
 # Thanks to
-<a href="https://github.com/Ajmal-Achu"><img src="https://github.com/Ajmal-Achu.png?size=100" width="100" height="100"></a> | [<img src="https://telegra.ph/file/0d160eade24b0ad32ee12.jpg" width="100" height="100">](https://github.com/Ajmal-Achu/Wizard-MD) 
+<a href="https://github.com/Ajmal-Achu"><img src="HM-BOT-MD.jpeg?size=100" width="100" height="100"></a> | [<img src="https://telegra.ph/file/0d160eade24b0ad32ee12.jpg" width="100" height="100">](https://github.com/Ajmal-Achu/Wizard-MD) 
 ---|---
-[AJMAL](https://github.com/Ajmal-Achu)  | [ABHI](https://github.com/Ajmal-Achu/Wizard-MD)
+[HASHIM](https://github.com/hemodz0786)  | [ABHI](https://github.com/Ajmal-Achu/Wizard-MD)
 DEVELOPER| FOR HELP |
 <a href="https://github.com/V1P3R-X"><img src="https://github.com/V1P3R-X.png?size=100" width="100" height="100"></a> | [![WIZARD MD](https://github.com/Neeraj-X0.png?size=100)](https://github.com/Neeraj-X0) 
 [V1P3R-X](https://github.com/V1P3R-X)  | [Neeraj-X0](https://github.com/Neeraj-X0)
