@@ -6615,7 +6615,7 @@ url: youtube
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/hemodz0786/Wizard-MD'
+url: 'https://github.com/Ajmal-Achu/Wizard-MD'
 }
 }, {
 quickReplyButton: {
